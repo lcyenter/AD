@@ -1,10 +1,20 @@
+# Copyright (c) 2014-2017, racaljk.
+# https://github.com/racaljk/hosts
+# Last updated: 2017-05-27
 
-# Localhost (DO NOT REMOVE)
+# This work is licensed under a CC BY-NC-SA 4.0 International License.
+# https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+# Modified Hosts Start
+
+# Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
-192.168.123.1 666.com
 192.168.123.1 fuck.you
 192.168.123.1 xiao.gui
-::1	localhost ip6-localhost ip6-loopback
+::1	localhost
+::1	ip6-localhost
+::1	ip6-loopback
+# Localhost (DO NOT REMOVE) End
 
 # Amazon AWS Start
 54.239.31.69	aws.amazon.com
@@ -3700,6 +3710,10 @@
 61.91.161.217	youtube-ui.l.google.com
 61.91.161.217	www.youtube-nocookie.com
 # Youtube End
+
+# Modified Hosts End
+
+
 
 #Google video start
 219.76.4.11 r1---sn-i3b7kn7y.googlevideo.com
